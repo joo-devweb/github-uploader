@@ -1,0 +1,5 @@
+{
+  "name": "GitHub ZIP Uploader",
+  "description": "An application to upload a ZIP file containing a project and automatically create a new GitHub repository with its contents.",
+  "requestFramePermissions": []
+}
